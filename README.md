@@ -21,12 +21,10 @@
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### 🛠️ Languages, Frameworks & Infrastructure
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs,ts,docker,kubernetes,aws,linux,postgres,redis,git&perline=11" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&hideTitle=true&hideBorder=true&bg=00000000&lineCount=2&l1=typescript,,3178C6;javascript,,F7DF1E;react,,61DAFB;nodejs,,339933;postgresql,,4169E1;cloudflare,,F38020;&l2=docker,,2496ED;github,,ffffff;vscode,,007ACC;rest,,00F7FF;graphql,,E10098;linux,,FCC624;" alt="Animated Tech Stack" width="650" />
 </p>
 
 ---
