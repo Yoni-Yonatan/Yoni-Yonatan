@@ -67,39 +67,19 @@ I am a **19-year-old Full-Stack Software Engineer** and cloud infrastructure arc
 | **⚡ High-Concurrency Full-Stack Web Apps** | End-to-end applications built with **React, Next.js, and Tailwind CSS** on the frontend, paired with **Node.js, Express.js, NestJS, and Hono.js** on the backend. | `Production` |
 | **☁️ Edge, Serverless & Hosting Infrastructure** | Multi-environment deployment workflows across **Cloudflare** (Workers/Pages/DNS), **Vercel** edge networks, **cPanel** Linux hosting, and **Git** version control pipelines. | `DevOps` |
 
----
-
-### 📊 GitHub Analytics & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-</p>
 
 ---
 
-### 🐍 Contribution Graph Animation
+
+### 📊 GitHub Analytics & Telemetry
+
+
 
 <p align="center">
-  <picture>
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoni-Yonatanaff/Yoni-Yonatanaff/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoni-Yonatanaff/Yoni-Yonatanaff/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yoni-Yonatanaff/Yoni-Yonatanaff/output/github-contribution-grid-snake.svg">
-</picture>
-  </picture>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Yoni-Yonatan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yoni-Yonatan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" width="48%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoni-Yonatan/Yoni-Yonatan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoni-Yonatan/Yoni-Yonatan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yoni-Yonatan/Yoni-Yonatan/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yoni-Yonatan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+</p>
